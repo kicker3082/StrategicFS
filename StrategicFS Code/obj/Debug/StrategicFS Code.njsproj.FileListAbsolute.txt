@@ -1,0 +1,3 @@
+C:\code\StrategicFS\StrategicFS Code\obj\Debug\StrategicFS Code.njsprojAssemblyReference.cache
+C:\code\StrategicFS\StrategicFS Code\obj\Debug\StrategicFS Code.njsproj.CoreCompileInputs.cache
+C:\code\StrategicFS\StrategicFS Code\bin\Microsoft.NodejsTools.WebRole.dll

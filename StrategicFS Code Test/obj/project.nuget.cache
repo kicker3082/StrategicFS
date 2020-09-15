@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ICUorJi0Y/GAv4gHM4K0Rl1tqE6ZM33U+NAGNvsGsWWRY0az5L6JDtPM2uXsuOkd5ri0lJzmAODXav6zsEO10A==",
+  "success": true,
+  "projectFilePath": "C:\\code\\StrategicFS\\StrategicFS Code Test\\StrategicFS Code Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asus\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,68 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategicFS Code Test", "StrategicFS Code Test.csproj", "{CF01A727-B7C2-45CE-A565-410F6EED5B69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{47185568-C0E5-4EBE-9DCF-E37721C024CC}"
+	ProjectSection(SolutionItems) = preProject
+		data_local.json = data_local.json
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StrategicFS Code Test Fixture", "..\StrategicFS Code Test Fixture\StrategicFS Code Test Fixture.csproj", "{9DB43E09-97C8-4BF5-AF53-55CB8862FFE2}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "StrategicFS Code", "..\StrategicFS Code\StrategicFS Code.njsproj", "{63335E28-1304-47A5-A283-0C195DC4C336}"
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "StrategidFS Web", "..\StrategidFS Web\", "{20C9D7A4-7720-4E74-A637-431DA3B3F75C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.7.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_51203"
+		Debug.AspNetCompiler.PhysicalPath = "..\StrategidFS Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51203\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_51203"
+		Release.AspNetCompiler.PhysicalPath = "..\StrategidFS Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_51203\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "51203"
+		SlnRelativePath = "..\StrategidFS Web\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF01A727-B7C2-45CE-A565-410F6EED5B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF01A727-B7C2-45CE-A565-410F6EED5B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF01A727-B7C2-45CE-A565-410F6EED5B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF01A727-B7C2-45CE-A565-410F6EED5B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DB43E09-97C8-4BF5-AF53-55CB8862FFE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DB43E09-97C8-4BF5-AF53-55CB8862FFE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DB43E09-97C8-4BF5-AF53-55CB8862FFE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DB43E09-97C8-4BF5-AF53-55CB8862FFE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63335E28-1304-47A5-A283-0C195DC4C336}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63335E28-1304-47A5-A283-0C195DC4C336}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63335E28-1304-47A5-A283-0C195DC4C336}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63335E28-1304-47A5-A283-0C195DC4C336}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C9D7A4-7720-4E74-A637-431DA3B3F75C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C9D7A4-7720-4E74-A637-431DA3B3F75C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C9D7A4-7720-4E74-A637-431DA3B3F75C}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C9D7A4-7720-4E74-A637-431DA3B3F75C}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2AFE0DA2-C119-4C4F-8A30-B33EE5D0ECA1}
+	EndGlobalSection
+EndGlobal

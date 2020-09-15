@@ -1,0 +1,9 @@
+{
+  "name": "strategic-fs-code",
+  "version": "0.0.0",
+  "description": "StrategicFS Code",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}

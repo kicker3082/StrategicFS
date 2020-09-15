@@ -1,0 +1,58 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<div class="text-center">
+    <h1 class="display-4">StrategicFS Code Test</h1>
+    <h3>Credit Account Information</h3>
+
+    <table class="tbl-spaced">
+        <thead>
+            <tr class="header">
+                <td class="selection">
+                    <input type="checkbox" checked id="select_all" />
+                </td>
+                <td class="left">Creditor</td>
+                <td class="left">First Name</td>
+                <td class="left">Last Name</td>
+                <td class="right">Min Pay %</td>
+                <td class="right">Balance</td>
+            </tr>
+        </thead>
+        <tbody class="table_data">
+            @foreach (var item in Model.CreditAccountInfo)
+            {
+                <tr class="data-row">
+                    <td class="selection">@Html.CheckBoxFor(m => item.IsSelected, new[] { "name", "'isSelected'" })</td>
+                    <td class="left">@Html.DisplayTextFor(m => item.CreditorName)</td>
+                    <td class="left">@Html.DisplayTextFor(m => item.FirstName)</td>
+                    <td class="left">@Html.DisplayTextFor(m => item.LastName)</td>
+                    <td class="right">@Html.DisplayTextFor(m => item.MinPaymentPercentage)</td>
+                    <td class="right">@Html.DisplayTextFor(m => item.Balance)</td>
+                </tr>
+            }
+        <tr class="control-row">
+            <td class="cmd-btn">
+                <a asp-page-handler="AddItem">Add Debt</a>
+            </td>
+
+
+        </tr>
+        <tr class="total-row">
+        </tr>
+        <tr class="summary-row">
+        </tr>
+        </tbody>
+    </table>
+</div>
+@section scripts {
+    <script type="text/javascript">
+        $(function () {
+            $('#select_all').change(function () {
+                var isChecked = $(this)[0].checked;
+                $('tbody.table_data').find('input[type="checkbox"]').prop('checked', isChecked);
+            });
+        }
+        );</script>
+}

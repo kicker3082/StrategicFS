@@ -1,0 +1,40 @@
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\appsettings.json
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\data_local.json
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\StrategicFS Code Test.exe
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\StrategicFS Code Test.deps.json
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\StrategicFS Code Test.runtimeconfig.json
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\StrategicFS Code Test.runtimeconfig.dev.json
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\StrategicFS Code Test.dll
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\StrategicFS Code Test.pdb
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\StrategicFS Code Test.Views.dll
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\StrategicFS Code Test.Views.pdb
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.csprojAssemblyReference.cache
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.AssemblyInfoInputs.cache
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.AssemblyInfo.cs
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.RazorAssemblyInfo.cache
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.RazorAssemblyInfo.cs
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.TagHelpers.input.cache
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.TagHelpers.output.cache
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.RazorCoreGenerate.cache
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.RazorTargetAssemblyInfo.cache
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.RazorTargetAssemblyInfo.cs
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.Views.pdb
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\staticwebassets\StrategicFS Code Test.StaticWebAssets.Manifest.cache
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\staticwebassets\StrategicFS Code Test.StaticWebAssets.xml
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.dll
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.pdb
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.genruntimeconfig.cache
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.csproj.CopyComplete
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.csproj.CoreCompileInputs.cache
+C:\code\StrategicFS\StrategicFS Code Test\obj\Debug\netcoreapp3.1\StrategicFS Code Test.MvcApplicationPartsAssemblyInfo.cache
+C:\code\StrategicFS\StrategicFS Code Test\bin\Debug\netcoreapp3.1\libman.json
